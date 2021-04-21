@@ -39,6 +39,13 @@ Compiled (NATIVE .exe) code execution:
 - 25ms
 - AVERAGE: 22.67ms
 
+Compiled (NATIVE .exe) code execution:
+
+- 19 ms
+- 17 ms
+- 15 ms
+- AVERAGE: 17.0ms
+
 ## fillArray.js
 Brave browser (Version 1.16.68 Chromium: 86.0.4240.111)
 - 4.76708984375 ms
