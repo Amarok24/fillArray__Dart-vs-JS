@@ -32,6 +32,13 @@ Brave browser (Version 1.16.68 Chromium: 86.0.4240.111)
 - 2.76123046875 ms
 - AVERAGE: 3.3ms
 
+## fillArrayInt32.js
+Deno { deno: "1.5.1", v8: "8.7.220.3", typescript: "4.0.3" }
+- 5 ms
+- 5 ms
+- 6 ms
+- AVERAGE: 5.7ms (speed in NodeJS is equivalent)
+
 ## growArray.js
 Brave browser (Version 1.16.68 Chromium: 86.0.4240.111)
 - 20.570068359375 ms
