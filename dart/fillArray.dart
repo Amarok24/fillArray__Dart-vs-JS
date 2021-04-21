@@ -35,4 +35,11 @@ Time elapsed: 2ms
 Time elapsed: 3ms
 AVERAGE: 2.333ms
 
+Compiled (NATIVE .exe) code execution:
+
+Time elapsed: 1ms
+Time elapsed: 1ms
+Time elapsed: 2ms
+AVERAGE: 1.333ms
+
 */
