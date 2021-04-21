@@ -19,3 +19,12 @@ if (process.argv.length) {
 } else {
     fillArrayInt32();
 }
+
+/*
+Deno { deno: "1.5.1", v8: "8.7.220.3", typescript: "4.0.3" }
+- 5 ms
+- 5 ms
+- 6 ms
+- AVERAGE: 5.7ms (speed in NodeJS is equivalent)
+
+*/
