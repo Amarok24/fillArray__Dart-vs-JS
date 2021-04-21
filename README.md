@@ -26,6 +26,13 @@ Compiled (NATIVE .exe) code execution:
 - 22 ms
 - AVERAGE: 23ms
 
+Compiled (NATIVE .exe) code execution:
+
+- 19 ms
+- 17 ms
+- 16 ms
+- AVERAGE: 17.333ms
+
 ## growDynamicList.dart
 - 20ms
 - 23ms
