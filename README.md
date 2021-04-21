@@ -13,6 +13,13 @@ Speed comparison of Dart vs. JavaScript, filling an array with numbers.
 - 3 ms
 - AVERAGE: 2.33ms
 
+Compiled (NATIVE .exe) code execution:
+
+- 1 ms
+- 1 ms
+- 2 ms
+- AVERAGE: 1.333ms
+
 ## growList.dart
 - 26 ms
 - 21 ms
